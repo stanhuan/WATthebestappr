@@ -5,5 +5,3 @@ A revolutionary suite of tools for the everyday UWaterloo student. Made by stude
 ####Tools
 - Work Timer
 - WatICalled
-
-Created at TerribleHacks III 2016
